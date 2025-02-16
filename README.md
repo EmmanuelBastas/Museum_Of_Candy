@@ -1,4 +1,6 @@
-# About The Project
+#Museum of Candy
+
+## About The Project
 
 It's a mini project created through the online course The Web Developer Bootcamp 2025 in Udemy.
 
@@ -16,4 +18,4 @@ The product of this project is a responsive home page for a variety of screens.
 
 ## Contact
 
-**Emmanuel Bastas** - manos.bastas.ma@gmail.com - [![LinkedIn][LinkedIn.logo]][LinkedIn-url]
+**Emmanuel Bastas** - manos.bastas.ma@gmail.com
